@@ -9,7 +9,7 @@
 
 - 🙌 I’m looking to collaborate on **any proyect**
 
-- 💬 Ask me about **C++, python, Java, HTML, VHDL**
+- 💬 Ask me about **C++, python, Java, HTML, VHDL, Linux**
 
 - 📫 How you can reach me **pablosanchez2002@gmail.com**
 
