@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pablo Sanchez</h1>
 <h3 align="center">A passionate computer science student from Madrid</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/FFkOPFbwhu0AAAAd/computer-funny.gif">
+<img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
 
 - 🔭 I’m currently working on **my 3rd year of collegue**
 
