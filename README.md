@@ -1,4 +1,4 @@
-[![MasterHead](https://www.software.ac.uk/sites/default/files/images/content/header-02-compressor-1140x484.jpg)](https://rishavchanda.io)
+<!---[![MasterHead]("url")](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Pablo Sanchez</h1>
 <h3 align="center">A passionate computer science student from Madrid</h3>
 <img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
