@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Sanchez</h1>
 <h3 align="center">A passionate computer science student from Madrid</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/FFkOPFbwhu0AAAAd/computer-funny.gif">
 
 - 🔭 I’m currently working on **my 3rd year of collegue**
 
