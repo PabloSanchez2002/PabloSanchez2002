@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my 3rd year of collegue**
 
-- 🌱 I’m currently learning **IA, networking and computer architecture**
+- 🌱 I’m currently learning **AI, networking and computer architecture**
 
 - 🙌 I’m looking to collaborate on **any proyect**
 
