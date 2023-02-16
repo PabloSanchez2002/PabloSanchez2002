@@ -18,10 +18,10 @@
 - 🌐 My web page https://pablosanchez2002.github.io/
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/inst.png" alt="instagram" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="static/link.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/inst.png" alt="instagram  " width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="static/link.png" alt="LinkedIn  " width="40" height="40"/></a>
+<a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="Wasap  " width="40" height="40"/></a>
+<a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail  " width="40" height="40"/></a> </p>
 <p align="left">
 </p>
 
