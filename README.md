@@ -3,7 +3,7 @@
 <h3 align="center">A passionate computer science student from Madrid</h3>
 <img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
 
-- 🔭 I’m currently working on **my 3rd year of collegue**
+- 🔭 I’m currently working on **my 4rd year of collegue**
 
 - 🌱 I’m currently learning **AI, networking and computer architecture**
 
