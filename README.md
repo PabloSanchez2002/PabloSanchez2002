@@ -3,15 +3,15 @@
 <h3 align="center">A passionate computer science student from Madrid</h3>
 <img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif">
 
-- 🔭 I’m currently working on **my 4rd year of collegue**
+- 🔭 I’m a **computer science engineer** from by the UAM, Madrid
 
 - 🌱 I’m currently learning **AI, networking and computer architecture**
 
-- 🙌 I’m looking to collaborate on **proyects related to IA and cybersecurity/networks**
+- 🙌 I’m looking to collaborate on **proyects related to cybersecurity, systems and networks**
 
-- 💬 Ask me about **C, python, Java, HTML, VHDL, Linux**
+- 💬 Ask me about **C, python, Java, Linux, BASH Scripting**
 
-- 📫 How you can reach me **pablosanchez2002@gmail.com**
+- 📫 How you can reach me **https://pablosanchez.site/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/](https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/)
 
