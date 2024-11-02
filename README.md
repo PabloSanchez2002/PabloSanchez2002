@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, networking and computer architecture**
 
-- 🙌 I’m looking to collaborate on **proyects related to cybersecurity, systems and networks**
+- 🙌 I’m looking forward to collaborate on **proyects related to cybersecurity, systems and networks**
 
 - 💬 Ask me about **C, python, Java, Linux, BASH Scripting**
 
