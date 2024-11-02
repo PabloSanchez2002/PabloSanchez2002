@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **C, python, Java, Linux, BASH Scripting**
 
-- 📫 How you can reach me **https://pablosanchez.site/**
+- 📫 How you can reach me **pablosanchez2002@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/](https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/)
 
-- 🌐 My web page https://pablosanchez2002.github.io/
+- 🌐 My web page **https://pablosanchez.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/inst.png" alt="instagram  " width="40" height="40"/></a>
